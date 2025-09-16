@@ -18,7 +18,7 @@ Petit projet **TypeScript**:
 - **Node.js** installé
 
 ## Installer TypeScript 
-```bash
+
 npm install -g typescript
 tsc -v
 
