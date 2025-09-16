@@ -17,10 +17,11 @@ Petit projet **TypeScript**:
 ## Prérequis
 - **Node.js** installé
 
-## Installer TypeScript (global)
+## Installer TypeScript 
 ```bash
 npm install -g typescript
 tsc -v
+
 
 ## Lancer
 # se placer dans le dossier du projet
