@@ -24,6 +24,6 @@ tsc -v
 
 
 ## Lancer
-# se placer dans le dossier du projet
+se placer dans le dossier du projet
 tsc --target ES2020 --module commonjs Car.ts types.ts utils.ts events.ts race.ts Main.ts
 node Main.js
