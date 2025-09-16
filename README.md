@@ -19,11 +19,11 @@ Petit projet **TypeScript**:
 
 ## Installer TypeScript 
 
-npm install -g typescript
-tsc -v
+- npm install -g typescript
+- tsc -v
 
 
 ## Lancer
-se placer dans le dossier du projet
-tsc --target ES2020 --module commonjs Car.ts types.ts utils.ts events.ts race.ts Main.ts
-node Main.js
+- se placer dans le dossier du projet
+- tsc --target ES2020 --module commonjs Car.ts types.ts utils.ts events.ts race.ts Main.ts
+- node Main.js
